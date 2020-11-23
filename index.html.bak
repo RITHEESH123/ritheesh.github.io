@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<!--
+	Prologue by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>RITHEESH R Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="is-preload">
+    <!-- Header -->
+    <div id="header">
+      <div class="top">
+        <!-- Logo -->
+        <div id="logo">
+          <div style="text-align: left;"><span class="image avatar48"><img src="My%20Pics/IMG_20200428_180225.jpg"
+
+                alt="" style="width: 69px; height: 69px;"></span></div>
+          <h1 id="title" style="text-align: right;">&nbsp; RITHEESH R</h1>
+          <p style="text-align: right;">Game Developer&nbsp; </p>
+          <p style="text-align: right;">Game Programmer</p>
+        </div>
+        <!-- Nav -->
+        <nav id="nav">
+          <ul>
+            <li><a href="#top" id="top-link"><span class="icon solid fa-home">Intro</span></a></li>
+            <li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">Portfolio</span></a></li>
+            <li><a href="#about" id="about-link"><span class="icon solid fa-user">About
+                  Me</span></a></li>
+            <li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contact</span></a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="bottom">
+        <!-- Social Icons -->
+        <ul class="icons">
+          <li><a href="https://twitter.com/ritheesh_rith?s=09" class="icon brands fa-twitter"
+
+              target="_blank"><span class="label">Twitter</span></a></li>
+          <li><a href="https://www.facebook.com/ritheesh.rithu.9" class="icon brands fa-facebook-f"
+
+              target="_blank"><span class="label">Facebook</span></a></li>
+          <li><a href="https://github.com/RITHEESH123" class="icon brands fa-github"
+
+              target="_blank"><span class="label">Github</span></a></li>
+          <li><a href="https://www.linkedin.com/in/ritheesh-r-ba995716b/" class="icon brands fa-linkedin"
+
+              target="_blank"><span class="label">LinkedIn</span></a></li>
+          <li><a href="https://www.instagram.com/ritheesh_rith/" class="icon brands fa-instagram"
+
+              target="_blank"><span class="label">Instagram</span></a></li>
+          <li><a href="mailto:rithritheesh@gmail.com" class="icon solid fa-envelope"
+
+              target="_blank"><span class="label">Email</span></a></li>
+        </ul>
+      </div>
+    </div>
+    <!-- Main -->
+    <div id="main">
+      <!-- Intro -->
+      <section id="top" class="one dark cover">
+        <div class="container">
+          <header>
+            <h2 class="alt">This is <strong>RITHEESH</strong> R<br>
+              &nbsp; <span style="color: white;">GAME DEVELOPER</span> | GAME
+              PROGRAMMER.</h2>
+          </header>
+          <footer>&nbsp; <a href="#portfolio" class="button scrolly">PORTFOLIO</a><br>
+            <br>
+            <span style="color: white;">To view all my projects and my codes
+              please do visit my GitHub Profile.</span><br>
+            <li><a href="https://github.com/RITHEESH123" class="icon brands fa-github"
+
+                target="_blank"><span class="label">Github</span></a></li>
+            <span style="color: white;">To view my demo videos and all
+              Certifications please do view my posts on LinkedIn Profile.</span><br>
+            <li><a href="https://www.linkedin.com/in/ritheesh-r-ba995716b/" class="icon brands fa-linkedin"
+
+                target="_blank"><span class="label">LinkedIn</span></a></li>
+          </footer>
+        </div>
+      </section>
+      <!-- Portfolio -->
+      <section id="portfolio" class="two">
+        <div class="container">
+          <header>
+            <h2 style="text-align: left;"><u><b>MY PORTFOLIO :</b></u></h2>
+            <p style="background-color: #cccccc; text-align: left;"><span style="color: red;">RECENT
+                ON PROCESS PROJECT :</span></p>
+            <ul style="text-align: left;">
+            </ul>
+            <div style="text-align: left;"><span style="color: black;"></span></div>
+            <ul style="text-align: left;">
+            </ul>
+            <div style="text-align: left;"><span style=" color: black;"><img src="images/1606111345715.png"
+
+                  alt="" style="width: 318px; height: 207px;"></span><br>
+              <span style=" color: black;"></span></div>
+            <span style=" color: black;"> </span><br>
+            <ul>
+              <li style="background-color: yellow; text-align: left;"><b><span style="color: black;">KART
+                    RACING - a Racing Game by RITHEESH</span></b></li>
+            </ul>
+            <span style="color: black;"></span><span style=" color: black;"></span><br>
+            <div style="text-align: left;"><span style="color: black;"></span><span
+
+                style=" color: black;"><img src="images/Screenshot%20%28269%29.png"
+
+                  alt="" style="width: 334px; height: 178px;"></span><br>
+            </div>
+            <br>
+            <div style="margin-left: 40px;"><span style=" color: black;"></span></div>
+            <div style="text-align: left;"><span style=" color: black;"><a href="https://github.com/RITHEESH123/KART-RACING---a-Racing-Game-by-RITHEESH"
+
+                  target="_blank"><button>GITHUB LINK FOR KART RACING PROJECT</button></a></span><br>
+              <span style=" color: black;"></span></div>
+            <span style=" color: black;"> <br>
+              <br>
+            </span>
+            <p style="background-color: #cccccc; text-align: left;"><b><span style="color: red;">PROJECTS
+                  DONE :</span></b></p>
+            <p style="background-color: yellow; text-align: left;"><span style="color: #030303;">1)
+                MONKEY REACH HIGH - a 2D Infinite Jumper Game :<br>
+              </span></p>
+            <p style="text-align: left;"><img src="images/Monkey.png" alt=""></p>
+            <p style="text-align: left;"><a href="https://github.com/RITHEESH123/Monkey-Reach-High---a-game-by-RITHEESH"
+
+                target="_blank"><button>GITHUB LINK FOR MONKEY REACH HIGH</button></a></p>
+            <p style="background-color: yellow; text-align: left;"><span style="color: #030303;">2)
+                ZOMBIE SMASHER - an Infinite Tanker Runner Game :</span></p>
+            <p style="text-align: left;"></p>
+            <p style="text-align: left;"><img src="images/IMG-20200926-WA0007.jpg"
+
+                alt="" style="width: 320px; height: 156px;"></p>
+            <p style="text-align: left;"><a href="https://github.com/RITHEESH123/Zombie-Smasher---An-Infinte-tanker-runner-game-by-RITHEESH"
+
+                target="_blank"><button>GITHUB LINK FOR ZOMBIE SMASHER - AN
+                  INFINITE TANKER RUNNER GAME PROJECT</button></a></p>
+            <p style="background-color: yellow; text-align: left;"><span style="color: black;">3)
+                ROCK PAPER SCISSORS - a simple 2D Game :</span></p>
+            <p style="text-align: left;"><span style="color: black;"></span><img
+
+                src="images/Screenshot%20%28270%29.png" alt="" style="width: 319px; height: 137px;"></p>
+            <p style="text-align: left;"><a href="https://github.com/RITHEESH123/Rock-Paper-Scissors---a-game-by-RITHEESH"
+
+                target="_blank"><button>GITHUB LINK FOR ROCK PAPER SCISSORS
+                  PROJECT</button></a></p>
+            <p style="background-color: yellow; text-align: left;"><span style="color: black;">4)
+                KNIFE HITTER - A simple knife throwing game : </span></p>
+            <p style="text-align: left;"><img src="images/Screenshot_2020-11-23-18-01-47-259_com.RithGames.KnifeHitteragamebyRITHEESH.jpg"
+
+                alt="" style="width: 148px; height: 220px;"><img src="images/Screenshot_2020-11-23-18-03-12-145_com.RithGames.KnifeHitteragamebyRITHEESH.jpg"
+
+                alt="" style="width: 148px; height: 220px;"><img src="images/Screenshot_2020-11-23-18-01-59-287_com.RithGames.KnifeHitteragamebyRITHEESH.jpg"
+
+                alt="" style="width: 148px; height: 220px;"></p>
+            <p style="text-align: left;"><button>GITHUB LINK FOR "KNIFE HITTER"
+                PROJECT&nbsp;</button></p>
+            <p style="background-color: yellow; text-align: left;"><span style="color: black;">5)
+                CUBY CUBY - A simple 2D game :</span></p>
+            <p style="text-align: left;"><img src="images/Player.png" alt=""></p>
+            <p style="text-align: left;"><a href="https://github.com/RITHEESH123/Cuby-Cuby---a-2D-game-by-RITHEESH"
+
+                target="_blank"><button>GITHUB LINK FOR "CUBY CUBY" PROJECT</button></a></p>
+            <p style="background-color: yellow; text-align: left;"><span style="color: black;">6)
+                2D ADVENTURE - A 2D Platformer Game Similar to Mario :</span></p>
+            <p style="text-align: left;"><img src="images/BG.png" alt="" style="width: 321px; height: 139px;"></p>
+            <p style="text-align: left;"><a href="https://github.com/RITHEESH123/2D-Adventure-platformer-Game-By-Ritheesh"
+
+                target="_blank"><button>GITHUB LINK FOR 2D ADVENTURE - a 2D
+                  Platformer Game</button></a></p>
+            <p style="background-color: yellow; text-align: left;"><span style="color: black;">7)
+                ROLLER MADNESS - a 3D Roller Ball Game :</span></p>
+            <p style="text-align: left;"><img src="images/Screenshot%20%28262%29.png"
+
+                alt="" style="width: 320px; height: 155px;"></p>
+            <p style="text-align: left;"><a href="https://github.com/RITHEESH123/Roller-Madness---a-game-by-RITHEESH"
+
+                target="_blank"><button>GITHUB LINK FOR ROLLER MADNESS PROJECT</button></a></p>
+            <p style="background-color: yellow; text-align: left;"><span style="color: black;">8)
+                BOX SHOOTER - a Simple Shooter Game :<br>
+              </span></p>
+            <p style="text-align: left;"><span style="color: black;"></span><img
+
+                src="images/Screenshot%20%28267%29.png" alt="" style="width: 319px; height: 167px;"></p>
+            <p style="text-align: left;"><a href="https://github.com/RITHEESH123/BOX-SHOOTER---a-game-By-RITHEESH"
+
+                target="_blank"><button>GITHUB LINK FOR BOX SHOOTER PROJECT</button></a></p>
+            <p style="background-color: yellow; text-align: left;"><span style="color: black;">9)
+                GOBLIN WARRIOR - a Action Warrior Game :</span></p>
+            <p style="text-align: left;"></p>
+          </header>
+          <p style="text-align: left;"><br>
+          </p>
+          <p style="text-align: left;"><a href="https://github.com/RITHEESH123/GOBLIN-WARRIOR---a-game-by-RITHEESH"
+
+              target="_blank"><button>GITHUB LINK FOR GOBLIN WARRIOR</button></a></p>
+          <div style="background-color: #cccccc; text-align: left;"><span style="color: red;">MY
+              BEST GAME :</span></div>
+          <ul style="text-align: left;">
+            <li><span style="color: black;">SUPER NINJA WARRIOR</span></li>
+          </ul>
+          <div style="text-align: left;">
+            <div style="background-color: yellow;"><u><b style="color: #993399;">ABOUT
+                  SUPER NINJA WARRIORS GAME :</b></u><br>
+              <ul>
+                <li><span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px;">You
+                    are a Super Hero. Play as a Super Ninja Warrior with Super
+                    powers like Thunder power, Fireball power, Ritual Flame
+                    power and 3 types of Sword Attack. Your goal in this game is
+                    to Save the World from Evil's like Zombie's, Shadowkon's,
+                    Skeleton King and finally the Lord Of Evil ( Evil Boss ). In
+                    order to save the world you must find the Load Of Evil and
+                    kill him by using all your super powers.</span></li>
+                <li><span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px;">This
+                    Game consists of two phases Rescue Town and Graveyard Clash.</span></li>
+                <li><span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px;">In
+                    Rescue Town, a full city will be haunted by Evil Zombies,
+                    Evil Shadowcon's , Skeleton King you must fight with all of
+                    them and finally reach the Lord of Evil and kill him to Save
+                    the haunted city back to normal.</span></li>
+                <li><span style="color: rgb(51, 51, 51); font-family: Roboto, Arial, sans-serif; font-size: 14px;">In
+                    Graveyard Clash, there will huge amount of Evils waiting for
+                    a rival battle, You must fight with all those evils using
+                    your super powers and finally kill the Lord of Evil to win
+                    the battle and save the world.</span></li>
+              </ul>
+            </div>
+            <div style="margin-left: 80px; background-color: yellow;">
+              <div style="text-align: justify;">
+                <ul>
+                </ul>
+              </div>
+            </div>
+            <span style=" color: black;"></span></div>
+          <span style=" color: black;"></span><br>
+          <span style=" color: black;"></span>
+          <p style="text-align: left;"><img src="images/Screenshot_2020-10-15-18-16-19-138_com.RithGames.SuperNinjaWarrior.jpg"
+
+              alt="" style="width: 319px; height: 159px;"></p>
+          <p style="text-align: left;"><img src="images/Screenshot_2020-10-15-18-18-18-359_com.RithGames.SuperNinjaWarrior.jpg"
+
+              alt="" style="width: 320px; height: 160px;"></p>
+          <p style="text-align: left;"><img src="images/Screenshot_2020-10-15-18-21-08-539_com.RithGames.SuperNinjaWarrior.jpg"
+
+              alt="" style="width: 320px; height: 160px;"></p>
+          <p style="text-align: left;"><img src="images/Screenshot_2020-10-15-18-20-40-785_com.RithGames.SuperNinjaWarrior.jpg"
+
+              alt="" style="width: 321px; height: 160px;"></p>
+          <p style="text-align: left;"><img src="images/Screenshot_2020-10-10-12-31-05-609_com.RithGames.SuperNinjaWarriorAGameByRITHEESH.jpg"
+
+              alt="" style="width: 320px; height: 160px;"></p>
+          <p style="text-align: left;"><a href="https://play.google.com/store/apps/details?id=com.RithGames.SuperNinjaWarrior"
+
+              title="SUPER NINJA WARRIOR" target="_blank"><button>PLAY STORE
+                DOWNLOAD LINK FOR SUPER NINJA WARRIOR</button></a></p>
+          <p style="text-align: left;"><a href="https://github.com/RITHEESH123/SUPER-NINJA-WARRIOR---a-action-game-by-RITHEESH"
+
+              target="_blank"><button>GITHUB LINK FOR SUPER NINJA WARRIOR</button></a></p>
+          <p style="text-align: center;"><br>
+          </p>
+          <p style="text-align: left; background-color: #cccccc;"><span style="color: red;">MY
+              PUBLISHED GAMES :</span></p>
+          <div class="row">
+            <div class="col-4 col-12-mobile">
+              <article class="item">
+                <div style="text-align: left;"><a href="https://www.amazon.com/dp/B08H2JJPJ8/ref=apps_sf_sta"
+
+                    class="image fit" title="MIGHTY ADVENTURE" target="_blank"><img
+
+                      src="images/SpartyIconNoBackground.png" alt=""> </a></div>
+                <div style="text-align: left;">
+                  <header>
+                    <h3 style="text-align: center;"><a href="https://www.amazon.com/dp/B08H2JJPJ8/ref=apps_sf_sta"
+
+                        title="MIGHTY ADVENTURE" target="_blank">MIGHTY
+                        ADVENTURE<br>
+                      </a></h3>
+                  </header>
+                  <a href="https://play.google.com/store/apps/details?id=com.RithGames.SuperNinjaWarrior"
+
+                    class="image fit" title="Super Ninja Warrior" target="_blank"><img
+
+                      src="images/Logo.png" alt=""></a></div>
+                <header>
+                  <h3><a href="https://play.google.com/store/apps/details?id=com.RithGames.SuperNinjaWarrior"
+
+                      title="Super Ninja Warrior" target="_blank">SUPER NINJA
+                      WARRIOR</a></h3>
+                </header>
+              </article>
+              <article class="item"> <a href="https://play.google.com/store/apps/details?id=com.RithGames.FROGRUNNER"
+
+                  title="FROG RUNNER" target="_blank"><img src="images/frog.png"
+
+                    alt="" style="width: 273px; height: 273px;"></a>
+                <header>
+                  <h3><a href="https://play.google.com/store/apps/details?id=com.RithGames.FROGRUNNER"
+
+                      title="FROG RUNNER" target="_blank">FROG RUNNER</a></h3>
+                </header>
+              </article>
+            </div>
+            <div class="col-4 col-12-mobile"><br>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- About Me -->
+      <section id="about" class="three">
+        <div class="container">
+          <header>
+            <h2>About Me</h2>
+          </header>
+          <a href="#" class="image featured"><img src="images/pic08.jpg" alt=""></a>
+          <ul style="text-align: left;">
+            <li>
+              <div style="box-sizing: border-box; direction: ltr; font-size: 15px; color: #484870; line-height: 1.53; outline: medium none;"><span
+
+                  style="box-sizing: border-box; outline: none;"><span style="box-sizing: border-box; outline: none;">Game
+                    Developer with </span></span><span style="box-sizing: border-box; font-weight: bold; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">Excellent
+                    Knowledge in Unity</span></span><span style="box-sizing: border-box; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">.</span></span></div>
+            </li>
+            <li>
+              <div style="box-sizing: border-box; direction: ltr; font-size: 15px; color: #484870; line-height: 1.53; outline: medium none;"><span
+
+                  style="box-sizing: border-box; outline: none;"><span style="box-sizing: border-box; outline: none;">Game
+                    Programmer with </span></span><span style="box-sizing: border-box; font-weight: bold; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">solid
+                    understanding in C#</span></span><span style="box-sizing: border-box; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;"> who can
+                    write fully scalable, flexible, independent and efficient
+                    code.</span></span></div>
+            </li>
+            <li>
+              <div style="box-sizing: border-box; direction: ltr; font-size: 15px; color: #484870; line-height: 1.53; outline: medium none;"><span
+
+                  style="box-sizing: border-box; outline: none;"><span style="box-sizing: border-box; outline: none;">Vast
+                    experience in creating more than </span></span><span style="box-sizing: border-box; font-weight: bold; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">70projects
+                    and 30games</span></span><span style="box-sizing: border-box; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;"> in both 2D
+                    and 3D with familiarity in level design and planning.</span></span></div>
+            </li>
+            <li>
+              <div style="box-sizing: border-box; direction: ltr; font-size: 15px; color: #484870; line-height: 1.53; outline: medium none;"><span
+
+                  style="box-sizing: border-box; outline: none;"><span style="box-sizing: border-box; outline: none;">Experience
+                    in </span></span><span style="box-sizing: border-box; font-weight: bold; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">game physics,
+                    particle systems, AI, game mechanics,</span></span><span style="box-sizing: border-box; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;"> </span></span><span
+
+                  style="box-sizing: border-box; font-weight: bold; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">animation</span></span><span
+
+                  style="box-sizing: border-box; outline: none;"><span style="box-sizing: border-box; outline: none;">
+                  </span></span><span style="box-sizing: border-box; font-weight: bold; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">for 2D
+                    sprites and 3D models</span></span><span style="box-sizing: border-box; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;"> in Unity.</span></span></div>
+            </li>
+            <li>
+              <div style="box-sizing: border-box; direction: ltr; font-size: 15px; color: #484870; line-height: 1.53; outline: medium none;"><span
+
+                  style="box-sizing: border-box; outline: none;"><span style="box-sizing: border-box; outline: none;">Applied
+                    and practical knowledge of </span></span><span style="box-sizing: border-box; font-weight: bold; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">OOPS and Data
+                    Structure</span></span><span style="box-sizing: border-box; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">.</span></span></div>
+            </li>
+            <li>
+              <div style="box-sizing: border-box; direction: ltr; font-size: 15px; color: #484870; line-height: 1.53; outline: medium none;"><span
+
+                  style="box-sizing: border-box; outline: none;"><span style="box-sizing: border-box; outline: none;">If
+                    given a opportunity, will </span></span><span style="box-sizing: border-box; font-weight: bold; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">love to work
+                    with a engaging team</span></span><span style="box-sizing: border-box; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">. </span></span></div>
+            </li>
+            <li>
+              <div style="box-sizing: border-box; direction: ltr; font-size: 15px; color: #484870; line-height: 1.53; outline: medium none;"><span
+
+                  style="box-sizing: border-box; outline: none;"><span style="box-sizing: border-box; outline: none;">Next
+                    Goal is towards </span></span><span style="box-sizing: border-box; font-weight: bold; outline: none;"><span
+
+                    style="box-sizing: border-box; outline: none;">VR &amp; AR</span></span><span
+
+                  style="box-sizing: border-box; outline: none;"><span style="box-sizing: border-box; outline: none;">.</span></span></div>
+            </li>
+          </ul>
+          <span style=" box-sizing: border-box; outline: none;"><span style=" box-sizing: border-box; outline: none;"></span></span>
+        </div>
+      </section>
+      <!-- Contact -->
+      <section id="contact" class="four">
+        <div class="container">
+          <header>
+            <h2>Contact</h2>
+          </header>
+          <li><a href="mailto:rithritheesh@gmail.com" class="icon solid fa-envelope"
+              target="_blank"><span class="label">Email</span></a></li>
+          <p>Give me feedback about my games or about anything that you want to
+            share with me here, or just drop a mail directly to me by <a href="mailto:rithritheesh@gmail.com"
+              target="_blank">CLICKING HERE</a></p>
+          <form method="post" action="#">
+            <div class="row">
+              <div class="col-6 col-12-mobile"><input name="name" placeholder="Name"
+
+                  type="text"></div>
+              <div class="col-6 col-12-mobile"><input name="email" placeholder="Email"
+
+                  type="text"></div>
+              <div class="col-12"> <textarea name="message" placeholder="Message"></textarea>
+              </div>
+              <div class="col-12"> <input value="Send Message" formaction="rithritheesh@gmail.com"
+
+formmethod="post" formenctype="multipart/form-data" formtarget="_parent" type="submit">
+              </div>
+            </div>
+          </form>
+        </div>
+      </section>
+    </div>
+    <!-- Footer -->
+    <div id="footer">
+      <!-- Copyright -->
+      <ul class="copyright">
+        <li>© Untitled. All rights reserved.</li>
+        <li>Design: <a href="https://github.com/RITHEESH123">RITHEESH R<br>
+          </a></li>
+      </ul>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
